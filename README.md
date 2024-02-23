@@ -1,9 +1,10 @@
-# recommendation-engine
-Real time LLM Recommendation Engine  
+# Real time LLM Recommendation Engine  
 
 # LLM Recommendation Engine
 
 This recommendation engine helps users identify the most suitable Large Language Model (LLM) for their use-case by aggregating data from various sources such as the Hugging Face Leaderboard, Twitter, and GitHub. It utilizes semantic search combined with real-time analytics to provide accurate recommendations.
+
+![LLM Recommendation Engine](https://github.com/chitransh1998/recommendation-engine/blob/main/Architecture.png)
 
 ## Requirements
 
@@ -65,5 +66,7 @@ Load the retrieved data, including embeddings, into SingleStore. Ensure that the
 
 Build the recommendation engine algorithm using the loaded data. Implement semantic search and real-time analytics to generate personalized recommendations based on user-defined use-cases. Deploy the recommendation engine on Vercel for accessibility.
 
-Following these steps will guide you through the process of creating a robust recommendation engine for LLMs, leveraging data from multiple sources and advanced algorithms.
+Following these steps will guide you through the process of creating a robust recommendation engine for LLMs, leveraging data from multiple sources and advanced algorithms.  
+
+Credits: https://portal.singlestore.com/organizations/61e7da06-a4dc-4dc0-be69-d4d93451f9e0/notebooks/b8d1e660-9a80-4d6e-8ecd-ed60679a5fa9%2F_internal-s2-personal%2F6815de15-489c-4c84-97ba-be9bf80e7bf2%2Freal-time-recommendation-engine-fcc32.ipynb?connectionID=d606075f-4f5f-4a43-9470-2b6169b2b377
 
