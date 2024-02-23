@@ -1,7 +1,5 @@
 # Real time LLM Recommendation Engine  
 
-# LLM Recommendation Engine
-
 This recommendation engine helps users identify the most suitable Large Language Model (LLM) for their use-case by aggregating data from various sources such as the Hugging Face Leaderboard, Twitter, and GitHub. It utilizes semantic search combined with real-time analytics to provide accurate recommendations.
 
 ![LLM Recommendation Engine](https://github.com/chitransh1998/recommendation-engine/blob/main/Architecture.png)
